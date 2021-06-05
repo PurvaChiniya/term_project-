@@ -1,4 +1,4 @@
-This repository is for my term project for the course Machine Learning EEN- , at IIT Roorkee. 
+This repository is for my term project for the course Machine Learning EEN-680 , at IIT Roorkee. 
 I have explored Q Learning and Reinforcement Learning to find the optimal policy in Grid Search Problem . Using the knowledge acquired in the class I am going to show Q learning in both deterministic and non deterministic case.
 
 
