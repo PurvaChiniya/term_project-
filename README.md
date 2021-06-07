@@ -10,4 +10,4 @@ I have explored Q Learning in Reinforcement Learning to find the optimal policy 
 - Matplotlib
 
 ## Grid Board Q-Learning
-![alt text](https://github.com/PurvaChiniya/term_project-/blob/images/board.png?raw=true)
+![alt text](https://github.com/PurvaChiniya/term_project-/blob/main/images/board.png?raw=true)
