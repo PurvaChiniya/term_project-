@@ -8,3 +8,6 @@ I have explored Q Learning in Reinforcement Learning to find the optimal policy 
 - PyTorch >= 1.8
 - NumPy
 - Matplotlib
+
+## Grid Board Q-Learning
+![alt text](https://github.com/PurvaChiniya/term_project-/blob/images/board.png?raw=true)
